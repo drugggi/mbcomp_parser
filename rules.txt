@@ -1,0 +1,18 @@
+    LIETSU MOONBOARD CUP 25-31.5.2020
+
+    Säännöt
+
+- 10 reittiä Moonboardilla (6B-7B), aikaa kiivetä viikko 22
+- Reitit merkataan Moonboard sovelluksen avulla (moonboard.com)
+- Reitit löytyy sovelluksesta käyttäjän "kisareitit" alta
+     ja on muotoa lietsucup 1 reitti x, missä x on [1-10]. 
+
+- kiivettyäsi reitin merkkaa tähdet, yrkät ja greidi mielipide sovelluksen avulla
+- yrityksistä lasketaan flash, 2nd try, 3rd try ja more than 3 tries
+- Eniten toppeja saanut vähimmillä yrkillä on voittaja,
+    tasatilanteessa Global MoonBoard ranking ratkaisee.
+    
+-  koronabudjetin mukainen palkinto jaetaan parhaalle naiselle ja miehelle,
+    sekä arvotaan osallistujien kesken ja
+    instaan videon hyvästä yrkästä postanneiden kesken #lietsucupyrkka
+
