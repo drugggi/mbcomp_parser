@@ -3,9 +3,10 @@
     Säännöt
 
 - 10 reittiä Moonboardilla (6B-7B), aikaa kiivetä viikko 22
+- Reitin saa kiivetä vain Lielahden moonboardilla ja osallistujan oltava TK:n rekisterissä
 - Reitit merkataan Moonboard sovelluksen avulla (moonboard.com)
 - Reitit löytyy sovelluksesta käyttäjän "kisareitit" alta
-     ja on muotoa lietsucup 1 reitti x, missä x on [1-10]. 
+     ja on muotoa "lietsucup 1 reitti x", missä x on [1-10]. 
 
 - kiivettyäsi reitin merkkaa tähdet, yrkät ja greidi mielipide sovelluksen avulla
 - yrityksistä lasketaan flash, 2nd try, 3rd try ja more than 3 tries
@@ -13,6 +14,6 @@
     tasatilanteessa Global MoonBoard ranking ratkaisee.
     
 -  koronabudjetin mukainen palkinto jaetaan parhaalle naiselle ja miehelle,
-    sekä arvotaan osallistujien kesken ja
+    sekä arvotaan osallistujien kesken sekä
     instaan videon hyvästä yrkästä postanneiden kesken #lietsucupyrkka
 
